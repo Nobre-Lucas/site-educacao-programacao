@@ -1,5 +1,10 @@
+.corpo{
+  background-color:#a3bded;
+}
+
 .content{
     display: none;
+    background-color: blueviolet;
  }
 
 #jogo{
@@ -22,8 +27,8 @@
 
 /* header com fundo cinza */
 .header {
-    overflow: hidden;
-    background-color: #f1f1f1;
+    overflow: hidden; 
+    background-color:transparent;
     padding: 20px 10px;
   }
   
@@ -55,6 +60,8 @@
   .header a.active {
     background-color: dodgerblue;
     color: white;
+    border: 1px;
+    margin: 0.5em;
   }
   
   /* */
