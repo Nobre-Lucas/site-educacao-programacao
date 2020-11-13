@@ -1,5 +1,11 @@
+.corpo{
+  background: linear-gradient(147deg, #7BD5F5, #888efa, #2aa3a3, #1CA7EC);
+  font-family: 'Roboto', sans-serif;
+}
+ 
 .content{
     display: none;
+    background-color:linear-gradient(147deg, #138086, #534666);; 
  }
 
 #jogo{
@@ -22,8 +28,8 @@
 
 /* header com fundo cinza */
 .header {
-    overflow: hidden;
-    background-color: #f1f1f1;
+    overflow: hidden; 
+    background-color:transparent;
     padding: 20px 10px;
   }
   
@@ -55,6 +61,8 @@
   .header a.active {
     background-color: dodgerblue;
     color: white;
+    border: 1px;
+    margin: 0.5em;
   }
   
   /* */
@@ -83,8 +91,8 @@
     height: 50px;	 
     line-height: 50px; 
     font-size: 80%; 
-    margin-left:-100%; 
-    margin-right:-100%; 
+    /* margin-left:-100%;  */
+    /* margin-right:-100%;  */
   } 
 
 pre code {
@@ -95,3 +103,12 @@ pre code {
     font-size: 16;
   }
   
+.btn{
+  background-color: purple;
+  color: white;
+  border : 1px;
+  margin: 2em;
+  width: 100px;
+  padding: 15px 32px;
+  cursor: pointer;
+}
