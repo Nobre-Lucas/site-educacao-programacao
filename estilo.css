@@ -5,7 +5,7 @@
  
 .content{
     display: none;
-    background-color: blueviolet; 
+    background-color:linear-gradient(147deg, #138086, #534666);; 
  }
 
 #jogo{
@@ -103,3 +103,12 @@ pre code {
     font-size: 16;
   }
   
+.btn{
+  background-color: purple;
+  color: white;
+  border : 1px;
+  margin: 2em;
+  width: 100px;
+  padding: 15px 32px;
+  cursor: pointer;
+}
