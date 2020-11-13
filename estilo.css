@@ -1,10 +1,10 @@
 .corpo{
-  background-color:#a3bded;
+  background: linear-gradient(147deg, #7BD5F5, #888efa, #2aa3a3, #1CA7EC);
 }
-
+ 
 .content{
     display: none;
-    background-color: blueviolet;
+    background-color: blueviolet; 
  }
 
 #jogo{
@@ -90,8 +90,8 @@
     height: 50px;	 
     line-height: 50px; 
     font-size: 80%; 
-    margin-left:-100%; 
-    margin-right:-100%; 
+    /* margin-left:-100%;  */
+    /* margin-right:-100%;  */
   } 
 
 pre code {
