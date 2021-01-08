@@ -1,5 +1,6 @@
 .corpo{
-  background: linear-gradient(147deg, #7BD5F5, #888efa, #2aa3a3, #1CA7EC);
+  background: linear-gradient(120deg, #2aa3a3, #1CA7EC, #4568FF, #fcf810, #e4e022 /*#f7f464*/);
+  /*background: linear-gradient(147deg, #7BD5F5, #888efa, #2aa3a3, #1CA7EC); original background color*/
   font-family: 'Roboto', sans-serif;
 }
  
